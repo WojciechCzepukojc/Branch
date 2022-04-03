@@ -1,0 +1,2 @@
+public class PlikOsoba2 {
+}
